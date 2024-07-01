@@ -1,0 +1,18 @@
+form {
+  margin: 20px 0;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form input[type="text"], form input[type="file"] {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
